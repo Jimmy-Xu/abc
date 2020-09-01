@@ -1,6 +1,8 @@
 [submodule ".1"]
 	path = .1
 	url = https://github.com/Jimmy-Xu/1.git
+	branch = master
 [submodule ".2"]
 	path = .2
 	url = https://github.com/Jimmy-Xu/2.git
+	branch = master
